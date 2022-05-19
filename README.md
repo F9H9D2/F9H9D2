@@ -19,3 +19,7 @@ git clone https://github.com/noobboss1/FAHAD-CLONER
 cd FAHAD-CLONER
 
 python2 Fahad.py
+
+
+USERNAME FAHAD
+PASSWORD FAHAD
