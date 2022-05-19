@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @F9H9D2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+2022 update number cloning super fast tools 11,9,6 Digit Number Colner Tools
 
-<!---
-F9H9D2/F9H9D2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg update && upgrade -y
+
+pkg install python
+
+pkg install python2
+
+pip2 install requests
+
+pip2 install requirements
+
+pip2 install mechanize
+
+pip2 install bs4
+
+git clone https://github.com/noobboss1/FAHAD-CLONER
+
+cd FAHAD-CLONER
+
+python2 Fahad.py
