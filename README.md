@@ -14,12 +14,11 @@ pip2 install mechanize
 
 pip2 install bs4
 
-git clone https://github.com/noobboss1/FAHAD-CLONER
+git clone https://github.com/F9H9D2/FAHAD-CLONER
 
 cd FAHAD-CLONER
 
 python2 Fahad.py
 
 
-USERNAME FAHAD
-PASSWORD FAHAD
+
