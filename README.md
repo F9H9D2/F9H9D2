@@ -14,7 +14,7 @@ pip2 install mechanize
 
 pip2 install bs4
 
-git clone https://github.com/fahadking/FAHAD-CLONER
+git clone https://github.com/F9H9D/FAHAD-CLONER
 
 cd FAHAD-CLONER
 
